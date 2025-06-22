@@ -22,7 +22,6 @@ pyinstaller
 pyqt5
 pyqtwebengine
 pywin32
-pyzipper
 rarfile
 requests
 screeninfo
